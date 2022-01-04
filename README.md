@@ -9,4 +9,4 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 ![Vine_Review](https://user-images.githubusercontent.com/83085800/148006042-84d4740c-601c-4489-bc35-bc38c97c9c12.png)
 
 ## Summary
-41.6% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is 53.01%. This describes a negative bias for reviews in the Vine program.
+41.60% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is 53.01%. This describes a negative bias for reviews in the Vine program.
